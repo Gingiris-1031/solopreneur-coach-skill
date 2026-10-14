@@ -1,10 +1,12 @@
 ---
 name: gingiris-solopreneur-coach
 description: >-
-  Coach aspiring solopreneurs from existing experience to a small real-world experiment, a scoped offer, and a first paid delivery. Use for choosing a solo-business direction, validating demand, packaging expertise, pricing a service, or reviewing a first client project. 帮助想做一人业务的人找到起点、验证需求、设计服务、报价交付并复盘；通过温和设问推进小行动。 Not a company-registration or investment-advice skill.
+  Coach aspiring solopreneurs from existing experience to a small real-world experiment, a scoped offer, and a first paid delivery. Use for choosing a solo-business direction, validating demand, packaging expertise, pricing a service, or reviewing a first client project. Gingiris OPC Coach：帮助想做一人业务的人找到起点、验证需求、设计服务、报价交付并复盘；通过温和设问推进小行动。 Not a company-registration or investment-advice skill.
 ---
 
 # Solopreneur Coach · by Gingiris
+
+Chinese alias / 中文名称：Gingiris OPC Coach（一人公司 AI 教练），same skill / 同一 Skill。
 
 ## Language / 语言
 

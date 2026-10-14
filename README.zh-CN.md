@@ -1,10 +1,12 @@
-# Solopreneur Coach
+# OPC Coach｜Solopreneur Coach 一人公司 AI 教练
 
 **帮助你开始一人业务的 AI Skill · by Gingiris**
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 > 从能走的一小步开始，逐渐建立自己的一人业务。
+
+**Gingiris OPC Coach 是 Solopreneur Coach 的中文搜索名称，两者为同一个 Skill。** [中文入门页](https://tools.gingiris.com/zh/skills/opc-coach/)
 
 Solopreneur Coach 帮助想尝试一人创业的人，从已有经验出发做一个小尝试、验证真实需求，逐步走向第一份付费交付。说说当前处境，拿到可用草稿，做一个能承担的动作，再带着实际结果回来调整。
 
@@ -121,3 +123,29 @@ npx skills add Gingiris-1031/solopreneur-coach-skill --skill gingiris-solopreneu
 ## License / 许可证
 
 [MIT](LICENSE) · Copyright 2026 Iris / Gingiris.
+
+## OPC Coach 常见问题
+
+### OPC Coach 是什么？
+
+Gingiris OPC Coach 是 Solopreneur Coach 的中文搜索名称，是一个支持中英文的一人公司 AI 教练 Skill。它通过温和设问帮助你明确当前问题，准备一个小行动，再根据真实反馈调整。
+
+### OPC Coach 和 Solopreneur Coach 是两个产品吗？
+
+不是。它们指向同一个 Gingiris Skill，仓库为 solopreneur-coach-skill，安装标识为 gingiris-solopreneur-coach。OPC 在这里指 One-Person Company，不指工业通信标准。
+
+### 没有产品，也能开始一人公司吗？
+
+可以先从自己做过的工作与别人提出过的具体请求开始，探索一个能承担的服务或最小实验。当前不需要先做完整产品，也不要求辞职或注册公司。
+
+### 怎样验证第一笔付费服务？
+
+先理解客户的真实任务，明确交付范围与验收，再提出报价，按约启动、交付、验收和结清款项。免费试做验证能力，称赞表达认可，首款代表部分付款，它们都不能单独证明完整商业闭环。
+
+### 它是否免费，是否保证收入？
+
+Skill 文本按 MIT 许可证开放，运行所用模型或 AI 工具可能收费。不保证成交或收入；当前为 v0.1.0 公开预览版，尚未完成目标用户效果验证。
+
+### 安装后会自动记住进度和提醒我吗？
+
+不保证。请保存进度摘要，换对话时带上；主动提醒需要平台支持和明确设置。只需提供必要且尽量匿名的信息，数据处理取决于你使用的 AI 平台。

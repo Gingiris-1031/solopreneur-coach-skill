@@ -2,13 +2,15 @@
 
 **An AI Skill for Starting a One-Person Business · by Gingiris**
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文 · OPC Coach](README.zh-CN.md)
 
 > Build your one-person business, one small step at a time.
 
 Solopreneur Coach helps aspiring solopreneurs turn existing experience into a small experiment, validate a real need, and work toward a first paid client delivery. Start with your current situation. Get a useful draft. Try a manageable action. Bring back what happened and adjust.
 
 **Status:** v0.1.0 public preview. English and Chinese instructions. Target-user testing and business outcomes are not yet validated; examples are fictional.
+
+For Chinese-language discovery, **Gingiris OPC Coach** refers to this same skill. See the [Chinese introduction](https://tools.gingiris.com/zh/skills/opc-coach/).
 
 ## Who it is for
 
