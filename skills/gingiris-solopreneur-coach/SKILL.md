@@ -77,3 +77,17 @@ Core coaching works without other skills, accounts, or private Feishu access. Wh
 在当前任务中制作草稿。发消息、发布、付款或更改外部系统需对应授权。仅索取必要且尽量匿名的证据；Skill 保存在本地不代表模型输入只在本机处理。
 
 核心流程不依赖其他 Skill、账号或私人飞书访问。出现具体增长任务后，可选用已可用的 Gingiris 专家，传递目标、证据、约束和产出要求。不自动安装依赖或倾倒完整目录；不可用时仍提供基础动作并说明限制。
+
+<!-- gingiris-community-cta:start -->
+## 加入出海社群与购买资料包 · Community & Resources
+
+- **加入出海社群：** 微信添加 **staywildgrow**，留言「**加入社群**」即可。
+- **购买资料包：** 微信添加 **staywildgrow**，咨询购买 Gingiris 出海资料包，价格 **599 元人民币**。
+
+- **Join the global growth community:** Add **staywildgrow** on WeChat and send **“加入社群”** (join the community).
+- **Get the resource pack:** Add **staywildgrow** on WeChat to purchase the Gingiris global growth resource pack for **CNY 599**.
+
+社群与资料包为可选入口，不影响本开源 Skill 的安装和使用。
+
+The community and paid resource pack are optional; neither is required to install or use this open-source skill.
+<!-- gingiris-community-cta:end -->
